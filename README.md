@@ -10,6 +10,12 @@ apt install speedtest-cli -y
 for RedHat :
 yum install -y speedtest-cli -y
 
+then after install speedtest-cli utility create a script
+and pasthe the code and run with command : 
+----------------
+sh checl-all-server.sh
+
+
 
 Sample Output :
 ----------------------------
